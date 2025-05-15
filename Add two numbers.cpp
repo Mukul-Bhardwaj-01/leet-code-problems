@@ -14,6 +14,12 @@ class node
 
 int main()
 {
-    int n,m;
+    int a,n,m;
     node*head=NULL;
+    cout<<"enter number: ";
+    cin>>a;
+    while (a>0)
+    {
+        node* A = new node();
+    }
 }
