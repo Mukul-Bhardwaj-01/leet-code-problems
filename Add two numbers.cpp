@@ -23,3 +23,5 @@ int main()
         node* A = new node();
     }
 }
+
+int findingsum()
