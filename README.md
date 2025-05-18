@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
