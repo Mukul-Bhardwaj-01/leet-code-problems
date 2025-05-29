@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0009-palindrome-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
