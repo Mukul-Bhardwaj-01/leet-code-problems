@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0005-longest-palindromic-substring) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
