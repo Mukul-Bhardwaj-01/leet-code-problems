@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0015-3sum) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0014-longest-common-prefix) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
