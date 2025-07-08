@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0015-3sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0015-3sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
 ## String
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0005-longest-palindromic-substring) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Tree
 |  |
 | ------- |
