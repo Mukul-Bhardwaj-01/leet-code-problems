@@ -6,9 +6,7 @@ public:
         stack<char> result;
         for (int i = 0; i < n; i++) {
             char ch = s[i];
-            if (ch == '(' || ch == '{' || ch == '[') {
-                result.push(ch);
-            }
+            if (ch == '(' || ch == '{' || ch == '[') result.push(ch);
             else {
                 if (result.empty()) return false;
                 char top = result.top();
@@ -16,9 +14,7 @@ public:
                     (ch == ']' && top == '[') ||
                     (ch == '}' && top == '{')) {
                     result.pop();
-                } else {
-                    return false;
-                }
+                } else return false;
             }
         }
         return result.empty();
