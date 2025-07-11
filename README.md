@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0013-roman-to-integer) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0015-3sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
 ## String
 |  |
@@ -127,8 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 ## Enumeration
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Simulation
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
