@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0020-valid-parentheses) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3396-valid-word) |
 ## Binary Search
 |  |
 | ------- |
