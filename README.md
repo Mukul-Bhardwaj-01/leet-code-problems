@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0005-longest-palindromic-substring) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Tree
 |  |
 | ------- |
