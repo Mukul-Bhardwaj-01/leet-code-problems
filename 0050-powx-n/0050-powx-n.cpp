@@ -9,7 +9,7 @@ public:
                 res*=x;
             }
             x*=x;
-            p/=2.0;
+            p/=2;
         }
         if(n>0) return res;
         return 1/res;
