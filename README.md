@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
