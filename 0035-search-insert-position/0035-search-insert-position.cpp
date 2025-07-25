@@ -1,19 +1,16 @@
 class Solution {
 public:
+    int binarySearch(vector<int>& A, int t, int low, int high) {
+        int mid=(low+high)/2;
+        if(low>high) return low;
+        if(A[mid]==t) return mid;
+        else if(A[mid]<t) 
+            return binarySearch(A,t,mid+1,high);
+        else 
+            return binarySearch(A,t,low,mid-1);
+    }
     int searchInsert(vector<int>& nums, int target) {
-        int low=0, high=nums.size()-1, mid=0;
-        while(low<=high) {
-            mid=(low + high)/2;
-            if(nums[mid]==target) {
-                return mid;
-            }
-            else if(nums[mid]<target) {
-                low=mid+1;
-            }
-            else {
-                high=mid-1;
-            }
-        }
-        return low;
+        int i=binarySearch(nums,target,0,nums.size()-1);
+        return i;
     } 
 };
