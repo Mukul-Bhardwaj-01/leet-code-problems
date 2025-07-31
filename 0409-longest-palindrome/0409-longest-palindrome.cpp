@@ -9,11 +9,11 @@ public:
         }
         for(auto p : freq) {
             if(p.second%2!=0) {
-                longest--;
+                --longest;
                 odd=true;
             }
         }
-        if(odd) longest++;
+        if(odd) ++longest;
         return longest;
     }
 };
