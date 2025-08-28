@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0189-rotate-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0189-rotate-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
