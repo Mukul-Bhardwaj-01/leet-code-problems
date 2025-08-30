@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0283-move-zeroes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0283-move-zeroes) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
