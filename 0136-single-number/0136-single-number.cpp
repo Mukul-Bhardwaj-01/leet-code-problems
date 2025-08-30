@@ -1,13 +1,8 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        map<int,int> hash;
-        for(auto it : nums) {
-            hash[it]++;
-        }
-        for(auto it : hash) {
-            if(it.second==1) return it.first;
-        }
-        return 0;
+        int XOR1=0;
+        for(int i=0; i<nums.size(); ++i) XOR1^=nums[i];
+        return XOR1;
     }
 };
