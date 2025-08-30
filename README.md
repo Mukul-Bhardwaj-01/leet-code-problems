@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0485-max-consecutive-ones) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
