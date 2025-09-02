@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0136-single-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0169-majority-element) |
 ## Linked List
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1013-fibonacci-number) |
