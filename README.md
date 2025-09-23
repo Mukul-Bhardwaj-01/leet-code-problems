@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
