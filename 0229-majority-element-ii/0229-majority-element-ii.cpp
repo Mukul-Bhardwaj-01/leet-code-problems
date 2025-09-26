@@ -4,10 +4,10 @@ public:
         vector<int> res;
         int t = nums.size()/3;
         map<long long, int> hash;
-        for(int i : nums)
+        for(int i : nums) {
             hash[i]++;
-        for(auto it : hash)
-            if(it.second > t) res.emplace_back(it.first);
+            if (hash[i]>t && find(res.begin(), res.end(), i)==res.end()) res.emplace_back(i);
+        }
         return res;
     }
 };
