@@ -7,6 +7,7 @@ public:
         for(int i : nums) {
             hash[i]++;
             if (hash[i]>t && find(res.begin(), res.end(), i)==res.end()) res.emplace_back(i);
+            if(res.size()==2) break;
         }
         return res;
     }
