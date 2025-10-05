@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
