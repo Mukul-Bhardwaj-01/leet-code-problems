@@ -1,6 +1,5 @@
 class Solution {
 public:
-    int count = 0;
     void merge(vector<int>& nums, int low, int mid, int high) {
         vector<int> temp;
         int left = low, right = mid+1;
@@ -16,25 +15,27 @@ public:
             nums[i] = temp[i-low];
         }
     }
-    void countReversePairs(vector<int>& nums, int low, int mid, int high) {
-        int right = mid+1;
+    int countReversePairs(vector<int>& nums, int low, int mid, int high) {
+        int count = 0, right = mid+1;
         for(int left = low; left<=mid; ++left) {
             while(right<=high && (long long)nums[left]>(long long)2*nums[right]) 
                 right++;
             count+=right - (mid + 1);
         }
+        return count;
     }
-    void mergesort(vector<int>& nums, int low, int high) {
-        if(low>=high) return;
+    int mergesort(vector<int>& nums, int low, int high) {
+        int count = 0;
+        if(low>=high) return count;
         int mid = (low + high)/2;
-        mergesort(nums, low, mid);
-        mergesort(nums, mid+1, high);
-        countReversePairs(nums, low, mid, high);
+        count += mergesort(nums, low, mid);
+        count += mergesort(nums, mid+1, high);
+        count += countReversePairs(nums, low, mid, high);
         merge(nums, low, mid, high);
+        return count;
     }
     int reversePairs(vector<int>& nums) {
         int n = nums.size();
-        mergesort(nums, 0, n-1);
-        return count;
+        return mergesort(nums, 0, n-1);
     }
 };
