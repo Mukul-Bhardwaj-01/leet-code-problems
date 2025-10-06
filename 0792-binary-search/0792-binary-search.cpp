@@ -1,7 +1,6 @@
 class Solution {
 public:
     int BS(vector<int>& nums, int low, int high, int target) {
-        if(low>high) return -1;
         while(low<=high) {
             int mid = (low + high)/2;
             if(nums[mid] == target) return mid;
