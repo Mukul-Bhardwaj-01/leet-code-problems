@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int BS(vector<int>& nums, int low, int high) {
-        int minEl = INT_MAX;
+    int findMin(vector<int>& nums) {
+        int low = 0, high = nums.size()-1, minEl = INT_MAX;
         while(low<=high) {
             int mid = low + (high - low)/2;
             if(nums[low] <= nums[mid]) {
@@ -14,8 +14,5 @@ public:
             }
         }
         return minEl;
-    }
-    int findMin(vector<int>& nums) {
-        return BS(nums, 0, nums.size()-1);
     }
 };
