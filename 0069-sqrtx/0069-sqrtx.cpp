@@ -1,11 +1,12 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        long long ans = 0;
-        for(long long i = 0; i<=x; ++i) {
-            if(i*i <= x) ans = i;
-            else break;
+        int low = 1, high = x;
+        while(low<=high) {
+            long long mid = low + (high - low)/2;
+            if(mid*mid <= (long long)x) low = mid + 1;
+            else high = mid - 1;
         }
-        return (int)ans;
+        return high;
     }
 };
