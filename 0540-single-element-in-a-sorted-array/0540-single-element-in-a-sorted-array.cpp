@@ -1,11 +1,9 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int i = 0, n = nums.size();
-        while(i<n-1) {
-            if(nums[i] == nums[i+1]) i+=2;
-            else break;
-        }
-        return nums[i];
+        unordered_map<int, int> hash;
+        for(int i : nums) hash[i]++;
+        for(auto it : hash) if(it.second != 2) return it.first; 
+        return 0;
     }
 };
