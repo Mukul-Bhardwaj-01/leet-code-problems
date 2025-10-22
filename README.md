@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
