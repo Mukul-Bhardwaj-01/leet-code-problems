@@ -14,19 +14,16 @@ public:
         return 0;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
-        if((long long)m*(long long)k > bloomDay.size()) return -1;
+        if(1LL*m*k > bloomDay.size()) return -1;
         int max = *max_element(bloomDay.begin(), bloomDay.end());
         int min = *min_element(bloomDay.begin(), bloomDay.end());
-        if((long long)m*(long long)k == bloomDay.size()) return max;
-        int low = min, high = max, ans = -1;
+        if(1LL*m*k == bloomDay.size()) return max;
+        int low = min, high = max;
         while(low<=high) {
             int mid = low + (high - low)/2;
-            if(checkDay(bloomDay,m,k,mid)) {
-                ans = mid;
-                high = mid - 1;
-            }
+            if(checkDay(bloomDay,m,k,mid)) high = mid - 1;
             else low = mid + 1;
         }
-        return ans;
+        return low;
     }
 };
