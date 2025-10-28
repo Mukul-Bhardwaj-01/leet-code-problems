@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3396-valid-word) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
