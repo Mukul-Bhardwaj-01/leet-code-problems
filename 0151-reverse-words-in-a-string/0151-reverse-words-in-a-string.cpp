@@ -1,14 +1,14 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string res = "";
+        string res = ""; //Space = O(n) for output
         int n = s.length(), first = 0;
-        for(int i = 0; i<n; ++i) {
+        for(int i = 0; i<n; ++i) { // Time = worst case O(n), average case: O(1)
             if(isspace(s[i])) first++;
             else break;
         }
         int start = n-1, end = n-1;
-        while(start<=end && start>=0) {
+        while(start<=end && start>=0) { //Time = O(2n*k)
             while(start>=0 && !isalnum(s[start])) {
                 start--; end--;
                 if(start < 0) break;
@@ -25,6 +25,7 @@ public:
                 start--; end = start;
             }
         }
+        //TC = O(n^2) and SC = O(n)
         return res;
     }
 };
