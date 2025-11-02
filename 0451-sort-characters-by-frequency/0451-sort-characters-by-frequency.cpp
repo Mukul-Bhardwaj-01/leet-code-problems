@@ -4,8 +4,9 @@ public:
         return p1.second > p2.second;
     }
     string frequencySort(string s) {
+        int n = s.length();
         string result = "";
-        vector<pair<char, int>> hashvec;
+        vector<pair<char, int>> hashvec; //vector to store char and their freq from s
         for(char c : s) {
             auto it = find_if(hashvec.begin(),hashvec.end(),
             [c](const pair<char,int>& p) {return p.first == c;});
@@ -15,10 +16,12 @@ public:
             }
             else hashvec.push_back({c,1});
         }
-        sort(hashvec.begin(),hashvec.end(), comp);
-        for(int i = 0; i<hashvec.size(); ++i) {
-            for(int j = 0; j<hashvec[i].second; ++j) {
-                result+=hashvec[i].first;
+        vector<string> strfreq(n+1); //vector with ith index having char/s that appear i times
+        for(auto it : hashvec) strfreq[it.second] += it.first;
+        //traversing strfreq from back and adding char/s into result
+        for(int i = n; i>0; --i) {
+            for(int j = 0; j<strfreq[i].length(); ++j) {
+                for(int k = 0; k<i; ++k) result+=strfreq[i][j];
             }
         }
         return result;
