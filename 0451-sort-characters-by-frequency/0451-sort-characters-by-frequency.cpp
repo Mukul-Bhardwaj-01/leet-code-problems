@@ -5,7 +5,6 @@ public:
     }
     string frequencySort(string s) {
         int n = s.length();
-        string result = "";
         vector<pair<char, int>> hashvec; //vector to store char and their freq from s
         for(char c : s) {
             auto it = find_if(hashvec.begin(),hashvec.end(),
@@ -19,11 +18,12 @@ public:
         vector<string> strfreq(n+1); //vector with ith index having char/s that appear i times
         for(auto it : hashvec) strfreq[it.second] += it.first;
         //traversing strfreq from back and adding char/s into result
+        stringstream ss;
         for(int i = n; i>0; --i) {
             for(int j = 0; j<strfreq[i].length(); ++j) {
-                for(int k = 0; k<i; ++k) result+=strfreq[i][j];
+                for(int k = 0; k<i; ++k) ss<<strfreq[i][j];
             }
         }
-        return result;
+        return ss.str();
     }
 };
