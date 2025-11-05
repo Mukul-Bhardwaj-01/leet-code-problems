@@ -1,21 +1,23 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int result=0, i=0, sign=1;
-        int n=s.length();
-        while (i<n && isspace(s[i]))
-            i++;
-        if (i<n && (s[i]=='+' || s[i] =='-')) {
-            sign = ((s[i]=='-')?-1:1);
+        int i = 0, n = s.length();
+        while(i<n && isspace(s[i])) i++;
+        int sign = 1, num = 0;
+        if(s[i]=='+') i++;
+        else if(s[i]=='-') {
+            sign = -1;
             i++;
         }
         while(i<n && isdigit(s[i])) {
-            if(result > INT_MAX/10 || (result == INT_MAX/10 && (s[i] - '0' > 7))) {
-                return (sign==-1)?INT_MIN:INT_MAX;
+            if(num > INT_MAX/10) return sign==-1?INT_MIN:INT_MAX;
+            else if(num == INT_MAX/10) {
+                if(sign>0 && (s[i]-'0')>=7) return INT_MAX;
+                else if(sign<0 && (s[i]-'0')>=8) return INT_MIN;
             }
-            result = result*10 + (s[i]-'0');
+            num = num*10 + (s[i] - '0');
             i++;
         }
-        return result*sign;
+        return sign*num;
     }
 };
