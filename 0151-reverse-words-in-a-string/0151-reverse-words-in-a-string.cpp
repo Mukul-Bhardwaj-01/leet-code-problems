@@ -1,24 +1,40 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        vector<string> res;
-        int n = (int)s.size();
         int i = 0;
-        while (i < n && s[i] == ' ') i++;
-        while (i < n) {
-            string word;
-            while (i < n && s[i] != ' ') {
-                word += s[i++];
+        while(!s.empty() && s.back() == ' ') s.pop_back();
+        while(i<(int)s.size() && s[i] == ' ') i++;
+        s.erase(s.begin(),s.begin()+i);
+        if(s.empty()) return "";
+        int n = (int)s.size();
+        int read = 0, write = 0;
+        bool isPrevSpace = false;
+        while(read<n) {
+            if(s[read]!=' ') {
+                s[write++] = s[read++];
+                isPrevSpace = false;
             }
-            if (!word.empty()) res.push_back(word);
-            while (i < n && s[i] == ' ') i++;
+            else if(s[read] == ' ' && !isPrevSpace) {
+                s[write++] = s[read++];
+                isPrevSpace = true;
+            }
+            else if(s[read] == ' ' && isPrevSpace) {
+                read++;
+            }
         }
-        if (res.empty()) return "";
-        string ans;
-        for (int k = (int)res.size() - 1; k >= 0; --k) {
-            ans += res[k];
-            if (k) ans += ' ';
+        s.resize(write);
+        n=write;
+        reverse(s.begin(),s.end());
+        int start = 0, space = 0;
+        while(space<n) {
+            if(s[space] != ' ') space++;
+            else if(s[space] == ' ') {
+                reverse(s.begin()+start, s.begin()+space);
+                space++;
+                start=space;
+            }
         }
-        return ans;
+        reverse(s.begin()+start, s.begin()+space);
+        return s;
     }
 };
