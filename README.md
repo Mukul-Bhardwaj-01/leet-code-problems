@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
 |  |
