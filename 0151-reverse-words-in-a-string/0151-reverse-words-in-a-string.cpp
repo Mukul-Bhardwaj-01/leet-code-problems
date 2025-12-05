@@ -1,31 +1,27 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string res = ""; //Space = O(n) for output
-        int n = s.length(), first = 0;
-        for(int i = 0; i<n; ++i) { // Time = worst case O(n), average case: O(1)
-            if(isspace(s[i])) first++;
+        vector<string> res;
+        int n = s.length();
+        int start = 0;
+        while(start<n) {
+            if(isspace(s[start])) start++;
             else break;
         }
-        int start = n-1, end = n-1;
-        while(start<=end && start>=0) { //Time = O(2n*k)
-            while(start>=0 && !isalnum(s[start])) {
-                start--; end--;
-                if(start < 0) break;
+        while(start<n) {
+            string word = "";
+            while(start<n && isalnum(s[start])) {
+                word+=s[start];
+                start++;
             }
-            while(start>=0 && isalnum(s[start])) {
-                start--;
-                if(start<0) break;
-            }
-            start++;
-            string c = ""; 
-            if(start > first) c = " ";
-            res += s.substr(start, end - start + 1) + c;
-            if(start >= 0) {
-                start--; end = start;
-            }
+            res.push_back(word);
+            while(start<n && isspace(s[start])) start++;
         }
-        //TC = O(n^2) and SC = O(n)
-        return res;
+        string resStr = "";
+        for(int i = res.size()-1; i>=0; --i) {
+            resStr += (res[i] + " ");
+        }
+        resStr.pop_back();
+        return resStr;
     }
 };
