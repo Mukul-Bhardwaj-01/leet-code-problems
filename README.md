@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3396-valid-word) |
 ## Binary Search
