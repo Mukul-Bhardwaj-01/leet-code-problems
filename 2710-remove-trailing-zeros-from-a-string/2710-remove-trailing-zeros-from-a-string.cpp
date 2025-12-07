@@ -1,10 +1,7 @@
 class Solution {
 public:
     string removeTrailingZeros(string num) {
-        for(int i = num.length()-1; i>=0; --i) {
-            if(num[i]=='0') num.pop_back();
-            else break;
-        }
+        while(!num.empty() && num.back() == '0') num.pop_back();
         return num;
     }
 };
