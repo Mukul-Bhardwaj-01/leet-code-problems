@@ -21,8 +21,10 @@ public:
         }
         int count = 0;
         for(int i = 0; i<m; ++i) {
+            if(!rowOnes[i]) continue;
             for(int j = 0; j<n; ++j) {
-                if(mat[i][j]==1 && rowOnes[i] && colOnes[j]) count++;
+                if(!colOnes[j]) continue;
+                if(mat[i][j]==1) count++;
             }
         }
         return count;
