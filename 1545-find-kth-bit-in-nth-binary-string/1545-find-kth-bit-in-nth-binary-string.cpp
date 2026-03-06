@@ -1,20 +1,15 @@
 class Solution {
 public:
-    string revInv(string str) {
-        for(char&c : str) {
-            if(c == '0') c='1';
-            else c='0';
-        }
-        reverse(str.begin(),str.end());
-        return str;
-    }
-    string constructSn(int n) {
-        if(n==1) return "0";
-        string prev = constructSn(n-1); 
-        return prev + "1" + revInv(prev);
-    }
     char findKthBit(int n, int k) {
-        string s = constructSn(n);
-        return s[k-1];
+        if (n == 1) 
+            return '0';
+        int len = (1 << n) - 1;      // length of Sn = 2^n - 1
+        int mid = (len + 1) / 2;     // mid position
+        if (k == mid)
+            return '1';
+        if (k < mid)
+            return findKthBit(n - 1, k);
+        char ans = findKthBit(n - 1, len - k + 1);
+        return (ans == '0') ? '1' : '0';
     }
 };
