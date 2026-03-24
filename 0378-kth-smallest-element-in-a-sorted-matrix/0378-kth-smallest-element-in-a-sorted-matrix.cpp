@@ -1,12 +1,18 @@
 class Solution {
 public:
-    int blackBox(vector<vector<int>>& matrix, int a) {
-        int sum = 0;
-        for(auto& it : matrix) {
-            sum += (int)(upper_bound(it.begin(),it.end(),a) - it.begin());
+    int blackBox(vector<vector<int>>& matrix, int mid) {
+        int n = matrix.size();
+        int row = n - 1, col = 0;
+        int count = 0;
+        while(row >= 0 && col < n) {
+            if(matrix[row][col] <= mid) {
+                count += row + 1;
+                col++;
+            }
+            else row--;
         }
-        return sum;
-    }
+    return count;
+}
     int kthSmallest(vector<vector<int>>& matrix, int k) {
         int n = matrix.size();
         int low = matrix[0][0], high = matrix[n-1][n-1];
