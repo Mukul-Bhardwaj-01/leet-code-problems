@@ -2,7 +2,7 @@ class Solution {
 public:
     int blackBox(vector<vector<int>>& matrix, int a) {
         int sum = 0;
-        for(auto it : matrix) {
+        for(auto& it : matrix) {
             sum += (int)(upper_bound(it.begin(),it.end(),a) - it.begin());
         }
         return sum;
