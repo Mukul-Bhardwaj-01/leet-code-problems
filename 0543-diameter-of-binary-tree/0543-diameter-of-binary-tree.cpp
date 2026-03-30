@@ -20,7 +20,7 @@ public:
     }
     int diameterOfBinaryTree(TreeNode* root) {
         int dia = 0;
-        int height = dfsHeight(root, dia);
+        dfsHeight(root, dia);
         return dia;
     }
 };
