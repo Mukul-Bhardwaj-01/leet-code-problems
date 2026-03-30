@@ -13,10 +13,8 @@ class Solution {
 public:
     int dfsSumPath(TreeNode* root, int& maxSum) {
         if(root == nullptr) return 0;
-        int leftSum = dfsSumPath(root -> left, maxSum);
-        int rightSum = dfsSumPath(root -> right, maxSum);
-        if(leftSum < 0) leftSum = 0;
-        if(rightSum < 0) rightSum = 0; 
+        int leftSum = max(0,dfsSumPath(root -> left, maxSum));
+        int rightSum = max(0,dfsSumPath(root -> right, maxSum)); 
         maxSum = max(maxSum, root->val + leftSum + rightSum);
         return root -> val + max(leftSum, rightSum);
     }
