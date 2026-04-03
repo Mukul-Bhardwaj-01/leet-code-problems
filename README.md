@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
+| [2906-construct-product-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2906-construct-product-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1901-find-a-peak-element-ii) |
+| [2906-construct-product-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Indexed Tree
 |  |
