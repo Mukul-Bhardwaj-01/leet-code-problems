@@ -19,8 +19,6 @@ public:
 
         // Small k → process per k
         for (int k = 1; k < B; k++) {
-            vector<vector<long long>> temp(k);
-
             for (auto &q : queries) {
                 if (q[2] == k) {
                     int l = q[0], r = q[1], val = q[3];
