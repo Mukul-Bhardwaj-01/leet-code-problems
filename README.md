@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
