@@ -6,7 +6,7 @@ public:
             hash[nums[i]].push_back(i);
         }
         int ans = INT_MAX;
-        for(auto it : hash) {
+        for(auto &it : hash) {
             if(it.second.size() >= 3) {
                 int start = 0, end = 2;
                 while(end < it.second.size()) {
