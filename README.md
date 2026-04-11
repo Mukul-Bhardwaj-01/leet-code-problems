@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
