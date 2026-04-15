@@ -3,25 +3,14 @@ public:
     int closestTarget(vector<string>& words, string target, int startIndex) {
         int ans = INT_MAX;
         int k = 0, n = words.size();
-        if(words[startIndex] == target) return k;
-        //find in the front
-        while(k<n-1) {
-            if(words[(startIndex + 1 + k) % n] == target) {
-                ans = k + 1;
-                break;
+        while(k < n) {
+            if(words[k] == target) {
+                int dist = abs(k - startIndex);
+                dist = min(dist, n - dist);
+                ans = min(ans, dist);
             }
             k++;
         }
-        int l = 0;
-        //find in the back
-        while(l<n-1) {
-            if(words[(startIndex - 1 - l + n) % n] == target) {
-                ans = min(ans, l + 1);
-                break;
-            }
-            l++;
-        }
-        if(ans == INT_MAX) return -1;
-        return ans;
+        return ans == INT_MAX ? -1 : ans;
     }
 };
