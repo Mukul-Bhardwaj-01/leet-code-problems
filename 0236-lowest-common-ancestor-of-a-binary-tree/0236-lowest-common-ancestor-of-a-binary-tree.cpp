@@ -23,15 +23,12 @@ public:
         vector<TreeNode*> path1, path2;
         getPath(root, path1, p);
         getPath(root, path2, q);
-        int i = path1.size() - 1, j = path2.size() - 1;
-        while(path1[i] != path2[j] && i>=0 && j>=0) {
-            if(i > j) i--;
-            else if(i < j) j--;
-            else {
-                i--;
-                j--;
-            }
+        int i = 1;
+        TreeNode* ans = root;
+        while(i<(path1.size()>=path2.size()?path2.size():path1.size()) && path1[i] == path2[i]) {
+            ans = path1[i];
+            i++;
         }
-        return path1[i];
+        return ans;
     }
 };
