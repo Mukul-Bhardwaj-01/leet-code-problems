@@ -25,10 +25,7 @@ public:
         getPath(root, path2, q);
         int i = 1;
         TreeNode* ans = root;
-        while(i<(path1.size()>=path2.size()?path2.size():path1.size()) && path1[i] == path2[i]) {
-            ans = path1[i];
-            i++;
-        }
+        while(i<(path1.size()>=path2.size()?path2.size():path1.size()) && path1[i] == path2[i]) ans = path1[i++];
         return ans;
     }
 };
