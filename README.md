@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1901-find-a-peak-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0917-reverse-only-letters) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1901-find-a-peak-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3488-closest-equal-element-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3488-closest-equal-element-queries) |
