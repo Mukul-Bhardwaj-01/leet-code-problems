@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
