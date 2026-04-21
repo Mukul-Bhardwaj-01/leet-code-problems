@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1646-kth-missing-positive-number) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1813-maximum-erasure-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
@@ -559,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2069-walking-robot-simulation-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
