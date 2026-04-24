@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2810-faulty-keyboard) |
+| [2833-furthest-point-from-origin](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2833-furthest-point-from-origin) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3396-valid-word) |
 ## Binary Search
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
