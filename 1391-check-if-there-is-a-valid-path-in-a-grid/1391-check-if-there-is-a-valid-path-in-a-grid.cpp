@@ -1,39 +1,89 @@
 class Solution {
 public:
-    bool hasValidPath(vector<vector<int>>& grid) {
-        int m = grid.size(), n = grid[0].size();
-        // allowed moves for each type
-        vector<vector<pair<int,int>>> dir(7);
-        dir[1] = {{0,-1},{0,1}};   // left right
-        dir[2] = {{-1,0},{1,0}};   // up down
-        dir[3] = {{0,-1},{1,0}};   // left down
-        dir[4] = {{0,1},{1,0}};    // right down
-        dir[5] = {{0,-1},{-1,0}};  // left up
-        dir[6] = {{0,1},{-1,0}};   // right up
-        queue<pair<int,int>> q;
-        vector<vector<int>> vis(m, vector<int>(n,0));
-        q.push({0,0});
-        vis[0][0] = 1;
-        while(!q.empty()){
-            auto [r,c] = q.front();
-            q.pop();
-            if(r==m-1 && c==n-1)
-                return true;
-            // try all moves from current cell
-            for(auto [dr,dc] : dir[grid[r][c]]){
-                int nr = r + dr;
-                int nc = c + dc;
-                if(nr<0 || nc<0 || nr>=m || nc>=n || vis[nr][nc])
-                    continue;
-                // check reverse connection
-                for(auto [bdr,bdc] : dir[grid[nr][nc]]){
-                    if(nr + bdr == r && nc + bdc == c){
-                        vis[nr][nc] = 1;
-                        q.push({nr,nc});
-                    }
-                }
+    static constexpr int MAX_N = 300 * 300 + 5;
+
+    struct DisjointSet {
+        int f[MAX_N];
+
+        DisjointSet() {
+            for (int i = 0; i < MAX_N; ++i) {
+                f[i] = i;
             }
         }
-        return false;
+
+        int find(int x) { return x == f[x] ? x : f[x] = find(f[x]); }
+
+        void merge(int x, int y) { f[find(x)] = find(y); }
+    } ds;
+
+    bool hasValidPath(vector<vector<int>>& grid) {
+        int m = grid.size(), n = grid[0].size();
+
+        auto getId = [&](int x, int y) { return x * n + y; };
+
+        auto detectL = [&](int x, int y) {
+            if (y - 1 >= 0 && (grid[x][y - 1] == 4 || grid[x][y - 1] == 6 ||
+                               grid[x][y - 1] == 1)) {
+                ds.merge(getId(x, y), getId(x, y - 1));
+            }
+        };
+
+        auto detectR = [&](int x, int y) {
+            if (y + 1 < n && (grid[x][y + 1] == 3 || grid[x][y + 1] == 5 ||
+                              grid[x][y + 1] == 1)) {
+                ds.merge(getId(x, y), getId(x, y + 1));
+            }
+        };
+
+        auto detectU = [&](int x, int y) {
+            if (x - 1 >= 0 && (grid[x - 1][y] == 3 || grid[x - 1][y] == 4 ||
+                               grid[x - 1][y] == 2)) {
+                ds.merge(getId(x, y), getId(x - 1, y));
+            }
+        };
+
+        auto detectD = [&](int x, int y) {
+            if (x + 1 < m && (grid[x + 1][y] == 5 || grid[x + 1][y] == 6 ||
+                              grid[x + 1][y] == 2)) {
+                ds.merge(getId(x, y), getId(x + 1, y));
+            }
+        };
+
+        auto handler = [&](int x, int y) {
+            switch (grid[x][y]) {
+                case 1: {
+                    detectL(x, y);
+                    detectR(x, y);
+                } break;
+                case 2: {
+                    detectU(x, y);
+                    detectD(x, y);
+                } break;
+                case 3: {
+                    detectL(x, y);
+                    detectD(x, y);
+                } break;
+                case 4: {
+                    detectR(x, y);
+                    detectD(x, y);
+                } break;
+                case 5: {
+                    detectL(x, y);
+                    detectU(x, y);
+                } break;
+                case 6: {
+                    detectR(x, y);
+                    detectU(x, y);
+                }
+            }
+        };
+
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                handler(i, j);
+            }
+        }
+
+        return ds.find(getId(0, 0)) == ds.find(getId(m - 1, n - 1));
     }
 };
