@@ -14,8 +14,7 @@ public:
 
     int quickSelect(vector<int>& arr, int left, int right, int k) {
         if (left == right) return arr[left];
-        int pivotIndex = left + rand() % (right - left + 1);
-        swap(arr[left],arr[pivotIndex]);
+        int pivotIndex = left;
         int pos = partition(arr, left, right);
 
         if (pos == k) return arr[pos];
