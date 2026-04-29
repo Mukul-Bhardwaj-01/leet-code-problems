@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2463-minimum-total-distance-traveled](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2463-minimum-total-distance-traveled) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Tree
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2906-construct-product-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2906-construct-product-matrix) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3225-maximum-score-from-grid-operations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
