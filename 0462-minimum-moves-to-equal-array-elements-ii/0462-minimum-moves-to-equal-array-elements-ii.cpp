@@ -6,8 +6,10 @@ public:
         while(i<=j) {
             while(i<=high && arr[i] <= pivot) i++;
             while(j>low && arr[j] > pivot) j--;
-            if(i < j)
+            if(i < j) {
                 swap(arr[i],arr[j]);
+                i++; j--;
+            }
         }
         swap(arr[low],arr[j]);
         return j;
