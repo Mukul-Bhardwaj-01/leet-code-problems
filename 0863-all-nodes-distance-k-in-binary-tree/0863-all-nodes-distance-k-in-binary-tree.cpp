@@ -21,7 +21,6 @@ public:
             for(int i = 0; i<size; ++i) {
                 TreeNode* node = q1.front();
                 q1.pop();
-                if(node == target) q2.push(node);
                 if(node -> left) {
                     q1.push(node -> left);
                     childParent[node -> left] = node;
@@ -34,6 +33,7 @@ public:
         }
         unordered_set<TreeNode*> visited;
         int dis = 0;
+        q2.push(target);
         visited.insert(target);
         while(!q2.empty()) {
             if(dis == k) break;
