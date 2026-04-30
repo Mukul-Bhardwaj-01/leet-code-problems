@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
