@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0485-max-consecutive-ones) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1013-fibonacci-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0152-maximum-product-subarray) |
+| [0396-rotate-function](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1013-fibonacci-number) |
