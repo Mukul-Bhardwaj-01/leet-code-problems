@@ -11,15 +11,27 @@
  */
 class Solution {
 public:
-    int i = 0;
-    void bfs(TreeNode* node) {
-        if(!node) return;
-        i++;
-        if(node -> left) bfs(node -> left);
-        if(node -> right) bfs(node -> right);
+    int leftHeight(TreeNode* node) {
+        int ht = 1;
+        while(node) {
+            ht++;
+            node = node -> left;
+        }
+        return ht;
+    }
+    int rightHeight(TreeNode* node) {
+        int ht = 1;
+        while(node) {
+            ht++;
+            node = node -> right;
+        }
+        return ht;
     }
     int countNodes(TreeNode* root) {
-        bfs(root);
-        return i;
+        if(!root) return 0;
+        int lh = leftHeight(root -> left);
+        int rh = rightHeight(root -> right);
+        if(lh == rh) return (1<<lh) - 1;
+        return 1 + countNodes(root -> left) + countNodes(root -> right);
     }
 };
