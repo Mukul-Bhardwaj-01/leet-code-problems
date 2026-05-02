@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0788-rotated-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
+| [0788-rotated-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0788-rotated-digits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1013-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
