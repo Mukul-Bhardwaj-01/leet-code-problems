@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0917-reverse-only-letters) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0493-reverse-pairs) |
