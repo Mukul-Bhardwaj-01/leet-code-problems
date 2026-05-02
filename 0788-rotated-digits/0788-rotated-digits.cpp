@@ -1,22 +1,28 @@
 class Solution {
 public:
-    bool exists347AndNotUnique(int &n) {
-        int num = n;
-        while(num > 0) {
-            if(num%10 == 3 || num%10 == 4 || num%10 == 7) return true;
-            num/=10;
+    string s;
+    int dp[6][2][2];
+    int solve(int pos, bool tight, bool changed) {
+        if(pos == s.size())
+            return changed;
+        if(dp[pos][tight][changed] != -1)
+            return dp[pos][tight][changed];
+        int limit = tight ? s[pos] - '0' : 9;
+        int ans = 0;
+        for(int d = 0; d <= limit; d++) {
+            if(d == 3 || d == 4 || d == 7)
+                continue;
+            bool newTight = tight && (d == limit);
+            bool newChanged =
+                changed ||
+                d == 2 || d == 5 || d == 6 || d == 9;
+            ans += solve(pos + 1, newTight, newChanged);
         }
-        string r = "", s = to_string(n);
-        for(int i = 0; i < s.length(); ++i) {
-            char c = (s[i] == '0') ? '0' : (s[i] == '1' ? '1' : (s[i] == '2' ? '5' : (s[i] == '5' ? '2' : (s[i] == '6' ? '9' : (s[i] == '8' ? '8' : '6')))));
-            r += c;
-        }
-        return (stoi(r) == n);
+        return dp[pos][tight][changed] = ans;
     }
     int rotatedDigits(int n) {
-        int cnt = 0;
-        for(int i = 1; i<=n; ++i)
-            if(!exists347AndNotUnique(i)) cnt++;
-        return cnt;
+        s = to_string(n);
+        memset(dp, -1, sizeof(dp));
+        return solve(0, true, false);
     }
 };
