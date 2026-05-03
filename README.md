@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0812-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0917-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1078-remove-outermost-parentheses) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
