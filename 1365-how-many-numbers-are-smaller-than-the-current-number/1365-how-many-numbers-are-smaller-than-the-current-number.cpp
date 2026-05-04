@@ -2,13 +2,16 @@ class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
         int n = nums.size();
-        vector<int> ans(n,0);
-        for(int i = 0; i<n; ++i) {
-            int cnt = 0;
-            for(int j = 0; j<n; ++j) {
-                if(nums[i] > nums[j]) cnt++;
-            }
-            ans[i] = cnt;
+        vector<pair<int,int>> eleInd;
+        for(int i = 0; i < n; ++i)
+            eleInd.push_back({nums[i], i});
+        sort(eleInd.begin(), eleInd.end());
+        vector<int> ans(n);
+        for(int i = 0; i < n; ++i) {
+            if(i > 0 && eleInd[i].first == eleInd[i - 1].first)
+                ans[eleInd[i].second] = ans[eleInd[i - 1].second];
+            else
+                ans[eleInd[i].second] = i;
         }
         return ans;
     }
