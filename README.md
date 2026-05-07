@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3660-jump-game-ix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Tree
 |  |
