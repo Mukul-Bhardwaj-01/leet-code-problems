@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1901-find-a-peak-element-ii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1901-find-a-peak-element-ii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
