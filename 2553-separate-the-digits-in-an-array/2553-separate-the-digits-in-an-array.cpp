@@ -6,15 +6,16 @@ public:
             sep.push_back(i%10);
             i = i/10;
         }
-        reverse(sep.begin(),sep.end());
         return sep;
     }
     vector<int> separateDigits(vector<int>& nums) {
         vector<int> ans;
         for(int i : nums) {
             vector<int> temp = separate(i);
-            for(int t : temp)
-                ans.push_back(t);
+            int tempsize = temp.size();
+            for(int t = tempsize - 1; t>=0; --t) {
+                ans.push_back(temp[t]);
+            }
         }
         return ans;
     }
