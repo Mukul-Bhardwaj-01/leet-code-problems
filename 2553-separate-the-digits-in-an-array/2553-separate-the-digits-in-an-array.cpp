@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> separate(int &i) {
+    vector<int> separate(int i) {
         vector<int> sep;
         while(i > 0) {
             sep.push_back(i%10);
@@ -11,15 +11,10 @@ public:
     }
     vector<int> separateDigits(vector<int>& nums) {
         vector<int> ans;
-        for(int &i : nums) {
-            if(i < 10) {
-                ans.push_back(i);
-                continue;
-            }
+        for(int i : nums) {
             vector<int> temp = separate(i);
-            for(int & t : temp) {
+            for(int t : temp)
                 ans.push_back(t);
-            }
         }
         return ans;
     }
