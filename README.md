@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -682,5 +684,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0258-add-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
