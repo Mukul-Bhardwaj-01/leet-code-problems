@@ -1,13 +1,12 @@
 class Solution {
 public:
-    void sumDigits(int &n) {
-        int num = n;
+    int sumDigits(int n) {
         int sum = 0;
-        while(num > 0) {
-            sum += (num%10);
-            num /= 10;
+        while(n > 0) {
+            sum += (n%10);
+            n /= 10;
         }
-        n = sum;
+        return sum;
     }
     int getLucky(string s, int k) {
         int resNum = 0;
@@ -18,7 +17,7 @@ public:
             }
         }
         for(int i = 1; i<k; ++i) {
-            sumDigits(resNum);
+            resNum = sumDigits(resNum);
             if(resNum < 10) break;
         }
         return resNum;
