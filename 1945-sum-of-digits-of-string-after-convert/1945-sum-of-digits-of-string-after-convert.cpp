@@ -8,16 +8,14 @@ public:
             num /= 10;
         }
         n = sum;
-        return;
     }
     int getLucky(string s, int k) {
-        string res = "";
-        for(char c : s) {
-            res += to_string(c - 'a' + 1);
-        }
         int resNum = 0;
-        for(char c : res) {
-            resNum += (c - '0');
+        for(char c : s) {
+            string temp =  to_string(c - 'a' + 1);
+            for(char digit : temp) {
+                resNum += (digit - '0');
+            }
         }
         for(int i = 1; i<k; ++i) {
             sumDigits(resNum);
