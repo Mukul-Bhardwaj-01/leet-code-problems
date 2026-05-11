@@ -7,9 +7,6 @@ public:
             num /= 10;
         }
         sort(numvec.begin(),numvec.end());
-        int num1 = numvec[0] * 10 + numvec[2];
-        int num2 = numvec[1] * 10 + numvec[3];
-        
-        return num1 + num2;
+        return (numvec[0] + numvec[1])*10 + numvec[2] + numvec[3];
     }
 };
