@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2544-alternating-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
