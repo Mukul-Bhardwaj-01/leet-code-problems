@@ -4,7 +4,7 @@ public:
         int ans = INT_MAX;
         for(int num : nums) {
             int sumOfDigits = 0;
-            while(num > 0) {
+            while(num) {
                 sumOfDigits += num%10;
                 num /= 10;
             }
