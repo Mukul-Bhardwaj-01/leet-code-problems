@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2481-strictly-palindromic-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2481-strictly-palindromic-number) |
 | [2544-alternating-digit-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2544-alternating-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Simulation
