@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1646-kth-missing-positive-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1813-maximum-erasure-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1813-maximum-erasure-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2906-construct-product-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3225-maximum-score-from-grid-operations) |
