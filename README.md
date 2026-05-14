@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3488-closest-equal-element-queries) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2784-check-if-array-is-good) |
 | [3321-type-of-triangle](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3321-type-of-triangle) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3842-toggle-light-bulbs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3842-toggle-light-bulbs) |
