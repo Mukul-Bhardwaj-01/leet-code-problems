@@ -3,27 +3,22 @@ public:
     bool canReach(vector<int>& arr, int start) {
         int n = arr.size();
         queue<int> q;
-        unordered_set<int> seen;
+        vector<bool> seen(n,false);
         q.push(start);
-        seen.insert(start);
+        seen[start] = true;
         while(!q.empty()) {
-            int size = q.size();
-            for(int i = 0; i<size; ++i) {
-                int ind = q.front();
-                q.pop();
-                if(arr[ind] == 0) return true;
-                if(ind - arr[ind] >= 0) {
-                    if(!seen.count(ind - arr[ind])) {
-                        q.push(ind - arr[ind]);
-                        seen.insert(ind - arr[ind]);
-                    }
-                }
-                if(ind + arr[ind] < n) {
-                    if(!seen.count(ind + arr[ind])) {
-                        q.push(ind + arr[ind]);
-                        seen.insert(ind + arr[ind]);
-                    }
-                }
+            int ind = q.front();
+            q.pop();
+            if(arr[ind] == 0) return true;
+            int left = ind - arr[ind];
+            int right = ind + arr[ind];
+            if(left >= 0 && !seen[left]) {
+                q.push(left);
+                seen[left] = true;
+            }
+            if(right < n && !seen[right]) {    
+                q.push(right);
+                seen[right] = true;
             }
         }
         return false;
