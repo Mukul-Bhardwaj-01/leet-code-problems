@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0237-delete-node-in-a-linked-list) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
