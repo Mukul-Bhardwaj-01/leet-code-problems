@@ -11,42 +11,35 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        if(!list1 && !list2) return nullptr;
         if(!list1) return list2;
         if(!list2) return list1;
-        ListNode* cur1 = list1, *cur2 = list2, *resultHead;
-        if(cur1 -> val <= cur2 -> val) {
+
+        ListNode *cur1 = list1, *cur2 = list2;
+        ListNode *resultHead;
+
+        if(cur1->val <= cur2->val) {
             resultHead = cur1;
-            cur1 = cur1 -> next;
-        }
-        else {
+            cur1 = cur1->next;
+        } else {
             resultHead = cur2;
-            cur2 = cur2 -> next;
+            cur2 = cur2->next;
         }
+
         ListNode* curr = resultHead;
+
         while(cur1 && cur2) {
-            if(cur1 -> val <= cur2 -> val) {
-                curr -> next = cur1;
-                curr = curr -> next;
-                cur1 = cur1 -> next;
+            if(cur1->val <= cur2->val) {
+                curr->next = cur1;
+                cur1 = cur1->next;
+            } else {
+                curr->next = cur2;
+                cur2 = cur2->next;
             }
-            else {
-                curr -> next = cur2;
-                curr = curr -> next;
-                cur2 = cur2 -> next;
-            }
+            curr = curr->next;
         }
-        while(cur1) {
-            curr -> next = cur1;
-            curr = curr -> next;
-            cur1 = cur1 -> next;
-        }
-        while(cur2) {
-            curr -> next = cur2;
-            curr = curr -> next;
-            cur2 = cur2 -> next;
-        }
-        curr -> next = nullptr;
+
+        curr->next = (cur1) ? cur1 : cur2;
+
         return resultHead;
     }
 };
