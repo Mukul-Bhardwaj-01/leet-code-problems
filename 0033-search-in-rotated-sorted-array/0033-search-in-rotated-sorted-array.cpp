@@ -1,21 +1,30 @@
 class Solution {
 public:
-    int BS(vector<int>& nums, int t, int low, int high) {
-        while(low<=high) {
+    int search(vector<int>& nums, int target) {
+        int low = 0, high = nums.size() - 1;
+        while(low <= high) {
             int mid = low + (high - low)/2;
-            if(nums[mid] == t) return mid;
-            if(nums[low] <= nums[mid]) {
-                if(nums[low]<=t && t<nums[mid]) high = mid - 1; 
-                else low = mid + 1;
+            int ele = nums[mid];
+            if(ele == target) return mid;
+            else if(ele > target) {
+                if(ele >= nums[low]) {
+                    if(nums[low] <= target) high = mid - 1;
+                    else low = mid + 1;
+                }
+                else {
+                    high = mid - 1;
+                }
             }
             else {
-                if(nums[mid]<t && t<=nums[high]) low = mid + 1;
-                else high = mid - 1;
+                if(nums[low] <= ele) {
+                    low = mid + 1;
+                }
+                else {
+                    if(nums[high] >= target) low = mid + 1;
+                    else high = mid - 1;
+                }
             }
         }
         return -1;
-    }
-    int search(vector<int>& nums, int target) {
-        return BS(nums, target, 0, nums.size()-1);
     }
 };
