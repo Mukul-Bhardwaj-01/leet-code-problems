@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
