@@ -6,16 +6,12 @@ public:
         int latest = INT_MIN;
         for(int i = 0; i<n; ++i) {
             if(set.count(s[i])) {
-                int start = i, end;
+                int start = i;
                 while(i < n && set.count(s[i])) {
                     i++;
-                    end = i;
                 } 
-                string temp = "";
-                for(int k = start; k <= end; ++k) {
-                    temp += s[k];
-                }
-                if(latest < stoi(temp)) latest = stoi(temp);
+                int num = stoi(s.substr(start, i - start));
+                if(latest < num) latest = num;
                 else return false;
             }
         }
