@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
