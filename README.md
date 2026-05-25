@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0075-sort-colors) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0874-walking-robot-simulation) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
