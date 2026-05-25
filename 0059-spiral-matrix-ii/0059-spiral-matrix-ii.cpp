@@ -5,7 +5,7 @@ public:
         int top = 0, bottom = n-1;
         vector<vector<int>> matrix(n,vector<int>(n,0));
         int val = 1, limit = n*n;
-        while(val <= limit) {
+        while(left <= right && top <= bottom) {
             for(int i = left; i<=right; ++i) {
                 matrix[top][i] = val;
                 val++;
