@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0258-add-digits) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1078-remove-outermost-parentheses](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1818-maximum-score-from-removing-substrings) |
