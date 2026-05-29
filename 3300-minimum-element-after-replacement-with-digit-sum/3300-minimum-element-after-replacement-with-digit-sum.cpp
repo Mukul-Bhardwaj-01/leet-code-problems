@@ -1,14 +1,17 @@
 class Solution {
 public:
+    int sumOfDigits(int n) {
+        int sum = 0;
+        while(n > 0) {
+            sum += (n%10);
+            n /= 10;
+        }
+        return sum;
+    }
     int minElement(vector<int>& nums) {
         int ans = INT_MAX;
-        for(int num : nums) {
-            int sumOfDigits = 0;
-            while(num) {
-                sumOfDigits += num%10;
-                num /= 10;
-            }
-            ans = min(ans,sumOfDigits);
+        for(int i : nums) {
+            ans = min(ans,sumOfDigits(i));
         }
         return ans;
     }
