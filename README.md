@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2463-minimum-total-distance-traveled](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2463-minimum-total-distance-traveled) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1871-jump-game-vii) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0493-reverse-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Linked List
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 ## Enumeration
@@ -771,4 +776,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
