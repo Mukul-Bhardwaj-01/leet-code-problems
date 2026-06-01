@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3093-longest-common-suffix-queries) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3161-block-placement-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3161-block-placement-queries) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3225-maximum-score-from-grid-operations) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Indexed Tree
