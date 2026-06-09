@@ -4,16 +4,10 @@ public:
         int n = nums.size();
         if(n == 1) return 0;
         //making 10 buckets
-        vector<queue<int>> buckets(19);
+        vector<queue<int>> buckets(10);
 
         //finding the max length of any number in nums
-        int l = 0;
-        for(int i = 0; i<n; ++i) {
-            if(abs(nums[i]) > l) {
-                l = abs(nums[i]);
-            }
-        }
-        l = to_string(l).length();
+        int l = to_string(*max_element(nums.begin(),nums.end())).length();
         int cnt = 0;
         while(cnt < l) {
             for(int i : nums) {
@@ -22,7 +16,7 @@ public:
                     t = i % 10;
                     i = i / 10;
                 }
-                buckets[t+9].push(t1);
+                buckets[t].push(t1);
             }
             vector<int> res;
             for(auto &it : buckets) {
