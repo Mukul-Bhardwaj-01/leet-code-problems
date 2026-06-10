@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2404-most-frequent-even-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2404-most-frequent-even-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2463-minimum-total-distance-traveled](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Linked List
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 ## Enumeration
 |  |
@@ -840,9 +845,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0912-sort-an-array) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
