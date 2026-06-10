@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0874-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0912-sort-an-array) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0860-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
