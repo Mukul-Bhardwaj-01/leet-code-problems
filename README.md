@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3838-weighted-word-mapping](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3842-toggle-light-bulbs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3396-valid-word) |
+| [3838-weighted-word-mapping](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3842-toggle-light-bulbs) |
 ## Stack
 |  |
