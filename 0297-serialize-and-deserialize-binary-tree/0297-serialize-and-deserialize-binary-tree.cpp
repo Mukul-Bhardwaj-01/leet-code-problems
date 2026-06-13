@@ -54,16 +54,10 @@ public:
             TreeNode * left = nullptr;
             TreeNode * right = nullptr;
 
-            if(i < n) {
-                if(nodes[i] == "#") left = nullptr;
-                else left = new TreeNode(stoi(nodes[i]));
-            }
+            if(i < n && nodes[i] != "#") left = new TreeNode(stoi(nodes[i]));
             i++;
 
-            if(i < n) {
-                if(nodes[i] == "#") right = nullptr;
-                else right = new TreeNode(stoi(nodes[i]));
-            }
+            if(i < n && nodes[i] != "#") right = new TreeNode(stoi(nodes[i]));
             i++;
 
             node -> left = left;
