@@ -13,30 +13,38 @@ public:
     int pairSum(ListNode* head) {
         // Count number of nodes in the linked list
         int n = 0;
-        ListNode *cur1 = head, *cur2 = head;
-        while(cur2) {
+        ListNode *cur = head, *prev = nullptr;
+        while(cur) {
             n++;
-            cur2 = cur2 -> next;
+            cur = cur -> next;
         }
 
-        // Use a stack to store nodes from the n/2 th to the last node
-        stack<ListNode*> s;
-        int j = n / 2, i = 0;
-        cur2 = head;
+        // Make cur node point to the (n/2 - 1)th node
+        cur = head;
+        int j = n/2 - 1, i = 0;
         while(i < j) {
-            cur2 = cur2 -> next;
+            cur = cur -> next;
             i++;
         }
-        while(cur2) {
-            s.push(cur2);
-            cur2 = cur2 -> next;
+
+        // Reversing LL in-place using curr, prev and nxt pointers
+        ListNode* curr = cur -> next;
+        while(curr) {
+            ListNode* nxt = curr -> next;
+            curr -> next = prev;
+            prev = curr;
+            curr = nxt;
         }
+        cur -> next = prev;
+        // Now, curr is nullptr, prev is the new head upon 2nd half reversal and is the n/2 th node
 
         int ans = INT_MIN;
-        while(!s.empty()) {
-            ans = max(ans,cur1 -> val + s.top() -> val);
-            cur1 = cur1 -> next;
-            s.pop();
+        cur = head;
+        // cur starts off at head and prev at n/2th node, and keep on comparing sum with ans
+        while(prev) {
+            ans = max(ans,cur -> val + prev -> val);
+            cur = cur -> next;
+            prev = prev -> next;
         }
         return ans;
     }
