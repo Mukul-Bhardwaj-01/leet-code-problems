@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
