@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0917-reverse-only-letters) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2481-strictly-palindromic-number) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
