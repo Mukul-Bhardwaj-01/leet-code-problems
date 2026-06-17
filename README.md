@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3396-valid-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2810-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3838-weighted-word-mapping) |
