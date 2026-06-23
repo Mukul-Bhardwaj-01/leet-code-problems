@@ -1,17 +1,16 @@
 class Solution {
 public:
     vector<int> intersection(vector<vector<int>>& nums) {
-        unordered_map<int,int> freq;
+        vector<int> freq(1001,0);
         for(auto &vec : nums) {
             for(int &i : vec) {
                 freq[i]++;
             }
         }
         vector<int> res;
-        for(auto &it : freq) {
-            if(it.second == nums.size()) res.push_back(it.first);
+        for(int i = 0; i < 1001; ++i) {
+            if(freq[i] == nums.size()) res.push_back(i);
         }
-        sort(res.begin(),res.end());
         return res;
     }
 };
