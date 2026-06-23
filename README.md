@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2574-left-and-right-sum-differences) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2404-most-frequent-even-element) |
 | [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2784-check-if-array-is-good) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
