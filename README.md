@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2404-most-frequent-even-element) |
 | [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2463-minimum-total-distance-traveled](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2833-furthest-point-from-origin) |
