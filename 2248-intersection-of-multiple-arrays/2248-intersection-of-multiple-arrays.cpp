@@ -8,7 +8,7 @@ public:
             }
         }
         vector<int> res;
-        for(int i = 0; i < 1001; ++i) {
+        for(int i = 1; i < 1001; ++i) {
             if(freq[i] == nums.size()) res.push_back(i);
         }
         return res;
