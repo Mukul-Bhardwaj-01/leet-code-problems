@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -933,4 +935,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
