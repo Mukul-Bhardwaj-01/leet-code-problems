@@ -11,14 +11,6 @@
  */
 class Solution {
 public:
-    bool exists(int key, TreeNode* root) {
-        while(root) {
-            if(root -> val == key) return true;
-            else if(root -> val > key) root = root -> left;
-            else root = root -> right;
-        }
-        return false;
-    }
     TreeNode * rightMostNode(TreeNode* node) {
         while(node -> right) {
             node = node -> right;
@@ -27,9 +19,6 @@ public:
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root) return nullptr;
-        if(!root -> left && !root -> right && root -> val == key) return nullptr;
-        if(!root -> left && !root -> right) return root;
-        if(!exists(key, root)) return root;
 
         if(root -> val == key) { // If the root is to be deleted
             if(root -> left == nullptr) return root -> right;
@@ -38,10 +27,11 @@ public:
             rightmost -> right = root -> right;
             return root -> left;
         }
+        
         TreeNode* curr = root;
         while(curr) {
             if(curr -> val > key) {
-                if(curr -> left -> val == key) {
+                if(curr -> left && curr -> left -> val == key) {
                     if(!curr -> left -> left) {
                         curr -> left = curr -> left -> right;
                         break;
@@ -61,7 +51,7 @@ public:
                 }
             }
             else {
-                if(curr -> right -> val == key) {
+                if(curr -> right && curr -> right -> val == key) {
                     if(!curr -> right -> left) {
                         curr -> right = curr -> right -> right;
                         break;
