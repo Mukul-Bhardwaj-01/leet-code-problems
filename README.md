@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3093-longest-common-suffix-queries) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
