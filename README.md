@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1929-concatenation-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1871-jump-game-vii) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
