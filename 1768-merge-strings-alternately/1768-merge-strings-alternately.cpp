@@ -3,13 +3,14 @@ public:
     string mergeAlternately(string word1, string word2) {
         int m = word1.length(), n = word2.length();
         int i = 0, j = 0;
-        stringstream ans;
+        string ans;
+        ans.reserve(m + n);
         while(i < m && j < n) {
-            ans << word1[i++];
-            ans << word2[j++];
+            ans.push_back(word1[i++]);
+            ans.push_back(word2[j++]);
         }
-        while(i < m) ans << word1[i++];
-        while(j < n) ans << word2[j++];
-        return ans.str();
+        while(i < m) ans.push_back(word1[i++]);
+        while(j < n) ans.push_back(word2[j++]);
+        return ans;
     }
 };
