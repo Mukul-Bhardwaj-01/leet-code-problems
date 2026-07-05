@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0788-rotated-digits) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [2069-walking-robot-simulation-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2069-walking-robot-simulation-ii) |
 ## Union-Find
 |  |
@@ -999,4 +1003,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3620-network-recovery-pathways) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
