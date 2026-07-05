@@ -1010,4 +1010,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
