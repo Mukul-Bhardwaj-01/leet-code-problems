@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1200-minimum-absolute-difference) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1345-jump-game-iv) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0788-rotated-digits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1013-fibonacci-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1340-jump-game-v) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1559-detect-cycles-in-2d-grid) |
