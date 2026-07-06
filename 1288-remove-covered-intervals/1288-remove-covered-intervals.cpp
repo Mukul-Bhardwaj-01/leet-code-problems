@@ -5,23 +5,10 @@ public:
             if(p1[0] == p2[0]) return p1[1] > p2[1];
             return p1[0] < p2[0];
         });
-        int cnt = 0, i = 1;
-        int n = intervals.size();
-        int start = intervals[0][0], end = intervals[0][1];
-        while(i < n) {
-            bool flag = false;
-            if(intervals[i][0] < start && intervals[i][1] >= start) {
-                start = intervals[i][0];
-                flag = true;
-            }
-            if(intervals[i][1] > end && intervals[i][0] <= end) {
-                end = intervals[i][1];
-                flag = true;
-            }
-            if(!flag && intervals[i][0] >= start && intervals[i][1] <= end) {
-                cnt++;
-            }
-            i++;
+        int cnt = 0, n = intervals.size(), end = intervals[0][1];
+        for(int i = 1; i < n; ++i) {
+            if(intervals[i][1] <= end) cnt++;
+            else end = intervals[i][1];
         }
         return n - cnt;
     }
