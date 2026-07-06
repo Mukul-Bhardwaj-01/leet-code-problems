@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1340-jump-game-v) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
