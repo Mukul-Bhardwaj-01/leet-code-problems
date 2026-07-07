@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Simulation
