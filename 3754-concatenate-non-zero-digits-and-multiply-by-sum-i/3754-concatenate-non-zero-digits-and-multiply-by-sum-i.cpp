@@ -10,7 +10,7 @@ public:
                 sum += c - '0';
             }
         }
-        long long x = stoi(t);
+        long long x = stoll(t);
         long long res = x * sum;
         return res;
     }
