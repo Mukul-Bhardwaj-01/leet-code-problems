@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0912-sort-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1046-last-stone-weight](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1288-remove-covered-intervals) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1046-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
