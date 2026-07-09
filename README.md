@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1013,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
