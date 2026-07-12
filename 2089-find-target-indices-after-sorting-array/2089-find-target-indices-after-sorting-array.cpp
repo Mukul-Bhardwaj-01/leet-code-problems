@@ -8,8 +8,8 @@ public:
         }
 
         vector<int> ans(equal,0);
-        for(int i = lesser, ind = 0; i < lesser + equal; ++i, ++ind) {
-            ans[ind] = i;
+        for(int i = 0; i < equal; ++i) {
+            ans[i] = i + lesser;
         }
         return ans;
     }
