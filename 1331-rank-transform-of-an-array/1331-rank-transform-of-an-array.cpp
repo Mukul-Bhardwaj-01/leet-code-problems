@@ -9,28 +9,28 @@ public:
         }
         sort(vecInd.begin(),vecInd.end());
 
-        vector<pair<int,int>> ansInd;
-        ansInd.push_back({1,vecInd[0].second});
+        int temp = vecInd[0].first;
+        vecInd[0].first = 1;
         int rank = 1;
         int i = 1;
         while(i < n) {
-            if(vecInd[i].first == vecInd[i - 1].first) {
-                ansInd.push_back({rank,vecInd[i].second});
+            if(vecInd[i].first == temp) {
+                vecInd[i].first = rank;
             }
             else {
                 rank++;
-                ansInd.push_back({rank,vecInd[i].second});
+                temp = vecInd[i].first;
+                vecInd[i].first = rank;
             }
             i++;
         }
 
-        sort(ansInd.begin(),ansInd.end(), [] (const auto &a, const auto &b) {
+        sort(vecInd.begin(),vecInd.end(),[] (const auto &a, const auto &b) {
             return a.second < b.second;
         });
-
         vector<int> ans(n,0);
         for(int j = 0; j < n; ++j) {
-            ans[j] = ansInd[j].first;
+            ans[j] = vecInd[j].first;
         }
         return ans;
     }
