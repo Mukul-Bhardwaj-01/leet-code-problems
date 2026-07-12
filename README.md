@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2248-intersection-of-multiple-arrays) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1901-find-a-peak-element-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1901-find-a-peak-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
