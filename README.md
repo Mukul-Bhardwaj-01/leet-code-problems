@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0792-binary-search) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0860-lemonade-change](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0860-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
