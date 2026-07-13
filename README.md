@@ -822,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2443-sum-of-number-and-its-reverse) |
