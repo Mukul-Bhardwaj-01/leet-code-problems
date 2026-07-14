@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1306-jump-game-iii) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1345-jump-game-iv) |
