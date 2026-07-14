@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0455-assign-cookies) |
