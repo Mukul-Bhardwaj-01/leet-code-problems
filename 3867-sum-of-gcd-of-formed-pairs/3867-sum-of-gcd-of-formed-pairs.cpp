@@ -1,31 +1,27 @@
 class Solution {
 public:
+    int get_gcd(int a, int b) {
+        while(b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
     long long gcdSum(vector<int>& nums) {
         int n = nums.size();
-
-        vector<int> mx;
-        int prefixMax = INT_MIN;
-
-        for (int x : nums) {
-            prefixMax = max(prefixMax, x);
-            mx.push_back(prefixMax);
+        vector<int> prefixGcd(n,0);
+        int mx = INT_MIN;
+        for(int i = 0; i < n; ++i) {
+            mx = max(mx,nums[i]);
+            prefixGcd[i] = gcd(nums[i],mx);
         }
-
-        vector<int> prefixGcd;
-        for (int i = 0; i < n; ++i) {
-            prefixGcd.push_back(gcd(nums[i], mx[i]));
+        sort(prefixGcd.begin(),prefixGcd.end());
+        
+        long long sum = 0;
+        for(int i = 0; i < n/2; ++i) {
+            sum += gcd(prefixGcd[i],prefixGcd[n - 1 - i]);
         }
-
-        ranges::sort(prefixGcd);
-
-        long long ans = 0;
-        int left = 0, right = n - 1;
-        while (left < right) {
-            ans += gcd(prefixGcd[left], prefixGcd[right]);
-            ++left;
-            --right;
-        }
-
-        return ans;
+        return sum;
     }
 };
