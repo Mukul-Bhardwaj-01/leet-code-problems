@@ -1117,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Monotonic Stack
 |  |
 | ------- |
