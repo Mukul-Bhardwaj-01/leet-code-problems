@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2404-most-frequent-even-element) |
 | [2479-meeting-rooms-iii](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2479-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2540-minimum-common-value) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2351-first-letter-to-appear-twice](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mukul-Bhardwaj-01/leet-code-problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
